@@ -1,0 +1,265 @@
+header{
+    width: 1000px;
+    margin: auto;
+    background-color:teal;
+    width: 100%;
+    height: 100px;
+    color:white;
+    font-family: cursive;
+    font-size: 22px;
+    text-align: center;
+}
+section{
+    width: 1000px;
+    margin: auto;
+    background-color:white;
+    
+}
+body{
+    background-color:#8C694A;
+}
+footer{
+    background-color:teal;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    
+}
+.imagen_principal{
+    width: 600px;
+     margin: auto;
+    display: block;
+    border-style: none;
+}
+.titulo_1{
+    
+    text-align: center;
+    font-family: fantasy;
+    font-size: 15px;
+    color:black;
+    
+}
+.parrafo{
+    text-align: left;
+    font-family: cursive;
+    font-size: 18px;
+    color:black;
+     margin: 30px;
+}
+.tabla_principal{
+    border-collapse:separate;
+    border-color: #7A7E84;
+    border-style: none;
+    width: 30%;
+	height: 50px;
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+    padding: 30px;
+}
+
+.titulo_tabla{
+    font-size: 20px;
+    background-color: #7A7E84;
+    color:white;
+}
+.contenido{
+    font-size: 15px;
+    background-color:#E0E4EB;
+}
+.lista_1{
+    font-family: cursive;
+    font-size: 15px;
+    color:black;
+    background-color:#d0d7df;
+    margin: 30px;
+}
+.lista_general{
+    font-family: cursive;
+    font-size: 15px;
+    color:black;
+    text-align: justify-all;
+    margin: 15px;
+    list-style:none;
+    margin: 30px;
+}
+.lista_2{
+    font-family: cursive;
+    font-size: 15px;
+    color:black;
+    background-color:#b0ddd8;
+    margin: 30px;
+}
+.lista_3{
+    font-family: cursive;
+    font-size: 15px;
+    color:black;
+    background-color:#fec2a3;
+    margin: 30px;
+}
+.lista_4{
+    font-family: cursive;
+    font-size: 15px;
+    color:black;
+    background-color:#ddc963;
+    margin: 30px;
+    
+ }
+.estructura_basica{
+    font-family: cursive;
+    font-size: 15px;
+    color:black;
+    background-color:#e0cec2;
+    margin: 30px;
+}
+li::before{
+    content: "🍩";
+}
+.primeras_etiquetas{
+    color:#85A3C9; 
+}
+.Etiquetas_2{
+    color: #505AFC;
+}
+.etiquetas_3{
+    color: #A68572;
+}
+.etiquetas_4{
+    color: #BF5B21;
+}
+.etiquetas_basicas{
+    color: #5B2A8C;
+}
+.image{
+   width: 450px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin; 
+}
+.imagen{
+    width: 600px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+.Ejemplo{
+    color: #C23126;
+}
+.imagen_1{
+    width: 500px;
+    height: 250px;
+    
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+    
+}
+.imagen_u_1{
+    width: 600px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+.imagen_u_2{
+    width: 600px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+.imagen_ol_1{
+     width: 400px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+.imagen_li{
+     width: 350px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+.imagen_br{
+    width: 600px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+.imagen_img{
+    width: 500px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+.imagen_2{
+    width: 300px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+.imagen_form{
+    width: 250px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+form{
+    text-align: center;
+}
+.imagen_link{
+    width: 800px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+    border-width: thin;
+}
+
+.imagen_3{
+    width: 200px;
+    border-color:black;
+    border-width:default;
+    border-style: inset;
+    margin: auto;
+    display: block;
+}
+
+
+
+
+
