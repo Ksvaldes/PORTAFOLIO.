@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif; 
+	
+}
+body{
+	background-image: url(../Img/fondoIndex/Fond.jpg);
+	background-size: cover;
+}
+section{
+    width: 100%;
+	color: #2A120E;	
+	background-color:#F6F0F4;
+}
+.Marco{
+	text-align: center;
+	margin-top: 15px;
+	font-size: 20px;
+}
+.parrafo{
+    text-align: left;
+    font-size: 19px;
+    margin: 15px;
+}
+.tabla_principal{
+    border-collapse:inherit;
+    border-color: #F0F0F2;
+    border-style: none;
+    width: 30%;
+	height: 50px;
+    text-align: center;
+    font-size: 18px;
+    padding: 30px;
+}
+
+.titulo_tabla{
+    font-size: 20px;
+    background-color: #BF7B75;
+    color:white;
+}
+.contenidoTabla{
+    font-size: 16px;
+    background-color:#D9AB9A;
+	padding: 3px;
+}
+.lista_general{
+    
+    font-size: 16px;
+    color:black;
+    text-align: justify-all;
+    margin: 15px;
+    list-style:none;
+    margin: 30px;
+}
+.estructura_basica{
+    
+    font-size: 14px;
+	padding: 2px;
+    color:black;
+    background-color:#e0cec2;
+    margin: 30px;
+}
+li::before{
+    content: "🍩";
+}
+.etiquetas_basicas{
+    color: #5B2A8C;
+	font-weight: bolder;
+}
+.Ejemplo{
+    color: #C23126;
+	margin-top: 10px;
+}
+.image{
+   width: 450px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium; 
+}
+.lista_1{
+    color:black;
+    background-color:#d0d7df;
+    margin: 30px;
+	font-size: 14px;
+	padding: 2px;
+}
+.primeras_etiquetas{
+    color:#85A3C9;
+	font-weight: bolder;
+}
+.imagen_1{
+    width: 500px;
+    height: 250px;
+    
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+    
+}
+.imagen_u_1{
+    width: 600px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+.imagen_u_2{
+    width: 600px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+.imagen_ol_1{
+     width: 400px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+.imagen_li{
+     width: 350px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+.imagen_br{
+    width: 600px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+.imagen{
+    width: 600px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+.lista_2{
+    
+    font-size: 14px;
+    color:black;
+    background-color:#b0ddd8;
+    margin: 30px;
+	padding: 2px;
+}
+.Etiquetas_2{
+    color: #505AFC;
+	font-weight: bolder;
+}
+
+.imagen_img{
+    width: 500px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+.imagen_2{
+    width: 300px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+.imagen_form{
+    width: 250px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+form{
+    text-align: center;
+}
+.imagen_link{
+    width: 800px;
+    border-color:gray;
+    border-width:default;
+    border-style:solid;
+    margin: auto;
+    display: block;
+    border-width:medium;
+}
+
