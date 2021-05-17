@@ -22,52 +22,6 @@ footer{
     box-sizing: border-box;
     
 }
-.padre{
-	cursor:pointer;
-    color: #fff;
-	padding-left: 22px;
-    font-size: 23px;
-	display: block;
-	text-decoration: none;
-}
-.hijo{
-    width: 90%;
-	display: block;
-    background-color: #D98997;
-    padding: 4px;
-    transition: 0.3s;
-    display: none;
-    cursor: pointer;
-    text-align: center;
-	font-size: 15px; 
-	
-}
-.padre:hover .hijo{
-    transition: 0.3s;
-    display: block;
-	font-family: 8px;
-}
-
-.hijo:hover{
-    background-color:snow;
-	color: #401D10;
-	display: block;
-    
-}
-
-.hijo:hover span{
-    margin-left: 15px;
-    display: inline;
-    transition: 0.5s;
-	display: block;
-
-}
-
-span{
-    display: none;
-    transition: 0.3s;
-	display: block;
-}
 section{
     width: 100%;
 	color: #2A120E;	
