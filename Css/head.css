@@ -32,7 +32,7 @@ h1{
     font-size: 23px;
 }
 .nav{
-    
+
     list-style: none;
     width: 100px;
     display: flex;
@@ -44,3 +44,4 @@ h1{
 .nav li::before{
     content: ""; 
 }
+cursor:
