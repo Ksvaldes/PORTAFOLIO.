@@ -105,10 +105,11 @@ li::before{
 	border: 6px solid #ffff;
 }
 .lista_1{
+    
+    font-size: 14px;
     color:black;
     background-color:#d0d7df;
     margin: 30px;
-	font-size: 14px;
 	padding: 2px;
 }
 .primeras_etiquetas{
