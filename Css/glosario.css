@@ -22,6 +22,23 @@ footer{
     box-sizing: border-box;
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 section{
     width: 100%;
 	color: #2A120E;	
@@ -75,7 +92,19 @@ section{
     background-color:#e0cec2;
     margin: 30px;
 }
-li::before{
+ .etiquetas_basicas::before{
+    content: "🍩";
+}
+ .primeras_etiquetas::before{
+    content: "🍩";
+}
+ .Etiquetas_2::before{
+    content: "🍩";
+}
+ .etiquetas_3::before{
+    content: "🍩";
+}
+ .etiquetas_4::before{
     content: "🍩";
 }
 .etiquetas_basicas{
@@ -221,4 +250,8 @@ form{
 	height: 200px;
 	object-fit: none;
 	object-position: 50% 50%;
+}
+.css{
+	list-style:"-> ";
+	margin-left: 18px;
 }
