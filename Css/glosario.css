@@ -1,8 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Quicksand', sans-serif; 
-	
+    font-family: 'Quicksand', sans-serif;
 }
 body{
 	background-image: url(../ejemplos/fondoIndex/FondoContenido.jpg);
@@ -22,23 +21,6 @@ footer{
     box-sizing: border-box;
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 section{
     width: 100%;
 	color: #2A120E;	
@@ -75,6 +57,41 @@ section{
     background-color:#D9AB9A;
 	padding: 3px;
 }
+.navegacion{
+	width: 1000px;
+	box-sizing: border-box;
+	padding-left: 150px;
+	margin: 30px auto;
+	background: #fff;
+}
+
+.navegacion ul{
+	list-style: none;
+}
+
+.menu > li{
+	position:relative;
+	display:inline-block;
+	margin-left: 30x;
+}
+
+.menu > li > a{
+	display: block;
+	padding: 15px 20px;
+	color: #353535;
+	text-decoration: none;
+	text-align: center;
+}
+
+.menu li a:hover{
+	color: #CE7D35;
+	transition: all .3s;
+}
+
+
+
+
+
 .lista_general{
     
     font-size: 16px;
