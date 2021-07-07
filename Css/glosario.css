@@ -22,14 +22,15 @@ footer{
     
 }
 section{
-    width: 100%;
-	color: #2A120E;	
+    width: 90%;
+	color: #2A120E;
+    margin: auto;
 	background-color:#F6F0F4;
 }
 .Marco{
 	text-align: center;
 	margin-top: 15px;
-	font-size: 20px;
+	font-size: 70%;
 }
 .parrafo{
     text-align: left;
@@ -58,11 +59,13 @@ section{
 	padding: 3px;
 }
 .navegacion{
-	width: 1000px;
-	box-sizing: border-box;
-	padding-left: 150px;
-	margin: 30px auto;
-	background: #fff;
+	width: 860px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content:center;
+    align-items:center;   
+    margin: 30px auto;
+    background: #fff;
 }
 
 .navegacion ul{
@@ -72,7 +75,6 @@ section{
 .menu > li{
 	position:relative;
 	display:inline-block;
-	margin-left: 30x;
 }
 
 .menu > li > a{
@@ -137,7 +139,7 @@ section{
 	text-align: center;
 }
 .image{
-    width: 450px;
+    width: 400px;
     margin: auto;
     display: block;
 	border: 6px solid #ffff;
@@ -236,7 +238,7 @@ form{
 	font-weight: bolder;
 }
 .imageFiltro{
-	width: 450px;
+	width: 380px;
     margin: auto;
     display: block;
 	border: 6px solid #ffff;
