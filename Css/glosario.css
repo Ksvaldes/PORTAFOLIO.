@@ -22,7 +22,7 @@ footer{
     
 }
 section{
-    width: 90%;
+    width: 80%;
 	color: #2A120E;
     margin: auto;
 	background-color:#F6F0F4;
@@ -30,7 +30,7 @@ section{
 .Marco{
 	text-align: center;
 	margin-top: 15px;
-	font-size: 70%;
+	font-size: 60%;
 }
 .parrafo{
     text-align: left;
@@ -59,19 +59,19 @@ section{
 	padding: 3px;
 }
 .navegacion{
-	width: 860px;
+	width: 90%;
+    display: block;
     box-sizing: border-box;
     display: flex;
     justify-content:center;
     align-items:center;   
-    margin: 30px auto;
+    margin: 17px auto;
+    font-size: 13px;
     background: #fff;
 }
-
 .navegacion ul{
 	list-style: none;
 }
-
 .menu > li{
 	position:relative;
 	display:inline-block;
@@ -79,10 +79,9 @@ section{
 
 .menu > li > a{
 	display: block;
-	padding: 15px 20px;
+	padding: 10px 10px;
 	color: #353535;
 	text-decoration: none;
-	text-align: center;
 }
 
 .menu li a:hover{
@@ -139,18 +138,18 @@ section{
 	text-align: center;
 }
 .image{
-    width: 400px;
+    width: 50%;
     margin: auto;
     display: block;
 	border: 6px solid #ffff;
      
 }
-.imagenFontFamiy{
-	width: 550px;
-	height: 200px;
+.image2{
+    width: 20%;
     margin: auto;
     display: block;
 	border: 6px solid #ffff;
+     
 }
 .lista_1{
     
@@ -166,8 +165,7 @@ section{
 }
 .imagen_1{
     
-	width: 250px;
-    height: 270px;
+	width: 30%;
     margin: auto;
     display: block;
     border: 6px solid #ffff; 
@@ -177,12 +175,6 @@ section{
     flex-direction: row;
 	
 	
-}
-.imagen{
-    width: 500px;
-    margin: auto;
-    display: block;
-	border: 6px solid #ffff;   
 }
 .lista_2{
     
@@ -195,19 +187,6 @@ section{
 .Etiquetas_2{
     color: #505AFC;
 	font-weight: bolder;
-}
-.imagen_2{
-    width: 580px;
-    margin: auto;
-    display: block;
-	border: 6px solid #ffff;  
-    
-}
-.imagen_form{
-    width: 280px;
-    margin: auto;
-    display: block;
-    border: 6px solid #ffff;  
 }
 form{
     text-align: center;
@@ -238,7 +217,7 @@ form{
 	font-weight: bolder;
 }
 .imageFiltro{
-	width: 380px;
+	width: 30%;
     margin: auto;
     display: block;
 	border: 6px solid #ffff;
@@ -266,7 +245,7 @@ form{
 
 .imgg{
 	background-color:white;
-	height: 200px;
+	width: 50%;
 	object-fit: none;
 	object-position: 50% 50%;
 }
