@@ -14,4 +14,12 @@ Materia: Computación (Laboratorio 1)
 
 Docente: Josué Fuentes
 
+# OBJETIVOS
+
+<ol>
+  <li>Objetivo4<li>
+  <li>Objehiev<li>
+  <li>divhgfvihfenv<li>
+<ol>
+
 
