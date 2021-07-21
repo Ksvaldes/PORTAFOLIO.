@@ -1,6 +1,6 @@
 # PORTAFOLIO III PERIODO
 https://ksvaldes.github.io/PORTAFOLIO./
 
-<img  src="ejemplos/fondoIndex/etiquetas_basicas/hgf.gif"  class="image">
+<img  src="ejemplos/fondoIndex/etiquetas_basicas/ff.gif"  class="image">
 
 
