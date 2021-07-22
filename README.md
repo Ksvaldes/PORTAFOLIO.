@@ -5,13 +5,9 @@ https://ksvaldes.github.io/PORTAFOLIO./
 
 # ANTEPORTADA
 Colegio Santa Catalina Laboure
-
 Karen Sophia Valdés Leonardo
-
 IV bachillerato en ciencias y letras con orientación en computación
-
 Materia: Computación (Laboratorio 1)
-
 Docente: Josué Fuentes
 
 # OBJETIVOS
