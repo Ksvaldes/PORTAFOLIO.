@@ -15,7 +15,13 @@ Docente: Josué Fuentes
 <ul>
   <li><a href="index.html">Homepage</a></li>
   <li><a   class="botones_menu" href="glosario.html">Glosario</a>
-  <li>EStructura Básica<li>
+    <ul>
+      <li>EStructura Básica<li>
+      <li>Etiquetas HTML dirigidas al texto<li>
+      <li>Etiquetas HTML dirigidas a objetos<li>
+      <li>Propiedades css dirigidas a texto<li>
+      <li>Propiedades dirigidas a objetos<li>
+    </ul>
   </li>
   
 
