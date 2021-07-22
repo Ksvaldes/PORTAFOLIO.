@@ -1,7 +1,7 @@
 # PORTAFOLIO III PERIODO
 https://ksvaldes.github.io/PORTAFOLIO./
 
-<img  src="ejemplos/fondoIndex/etiquetas_basicas/22 .gif"  class="image">
+<img  src="ejemplos/fondoIndex/etiquetas_basicas/22 .gif">
 
 # ANTEPORTADA
 Colegio Santa Catalina Laboure
@@ -18,4 +18,5 @@ Docente: Josué Fuentes
   <li>Hacer mi página web atractiva y llamativa para los demás usuarios.</li>
 </ol>
 
+<img  src="ejemplos/fondoIndex/etiquetas_basicas/23.gif">
 
