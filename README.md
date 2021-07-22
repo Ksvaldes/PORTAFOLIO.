@@ -1,5 +1,4 @@
 # PORTAFOLIO III PERIODO
-https://ksvaldes.github.io/PORTAFOLIO./
 
 <img  src="ejemplos/fondoIndex/etiquetas_basicas/22 .gif">
 
@@ -36,6 +35,14 @@ Docente: Josué Fuentes
 </ol>
 
 <img  src="ejemplos/fondoIndex/etiquetas_basicas/responsive.gif">
+
+# DOCUMENTACIÓN
+
+Entra a este link para ver mi glosario !
+
+https://ksvaldes.github.io/PORTAFOLIO./
+
+
 
 
 
