@@ -10,6 +10,8 @@ IV bachillerato en ciencias y letras con orientación en computación
 Materia: Computación (Laboratorio 1)
 Docente: Josué Fuentes
 
+# ÍNDICE
+
 # OBJETIVOS
 
 <ol>
@@ -19,4 +21,6 @@ Docente: Josué Fuentes
 </ol>
 
 <img  src="ejemplos/fondoIndex/etiquetas_basicas/responsive.gif">
+
+
 
