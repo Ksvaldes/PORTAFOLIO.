@@ -1,15 +1,15 @@
-
+<img width="150px" src="https://static.wixstatic.com/media/d1b317_4114e1fd9f0d4d85a17f9a1ed58be4aa~mv2.png">
 
 # PORTAFOLIO III PERIODO 2021
 
-<img width="100px" src="ejemplos/fondoIndex/etiquetas_basicas/22 .gif">
+<img width="280px" src="ejemplos/fondoIndex/etiquetas_basicas/22 .gif">
 
-# ANTEPORTADA
-Colegio Santa Catalina Laboure
-Karen Sophia Valdés Leonardo
-IV bachillerato en ciencias y letras con orientación en computación
-Materia: Computación (Laboratorio 1)
-Docente: Josué Fuentes
+# INFORMACIÓN PERSONAL
+Colegio Santa Catalina Laboure <br>
+Karen Sophia Valdés Leonardo <br>
+IV bachillerato en ciencias y letras con orientación en computación <br>
+Materia: Computación (Laboratorio 1) <br>
+Docente: Josué Fuentes <br>
 
 # ÍNDICE
 
@@ -36,7 +36,7 @@ Docente: Josué Fuentes
   <li>Hacer mi página web atractiva y llamativa para los demás usuarios.</li>
 </ol>
 
-<img  src="ejemplos/fondoIndex/etiquetas_basicas/responsive.gif">
+<img width="200px" src="ejemplos/fondoIndex/etiquetas_basicas/responsive.gif">
 
 # DOCUMENTACIÓN
 
