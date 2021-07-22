@@ -14,7 +14,7 @@ Docente: Josué Fuentes
 
 <ul>
   <li><a href="index.html">Homepage</a></li>
-  <li></li>
+  <li><a   class="botones_menu" href="Glosario.html">Glosario</a></li>
   <li></li>
 
 </ul>
