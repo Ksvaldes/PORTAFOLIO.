@@ -44,7 +44,7 @@ Entra a este link para ver mi glosario !
 
 https://ksvaldes.github.io/PORTAFOLIO./
 
-<img width="200px" src="ejemplos/fondoIndex/etiquetas_basicas/img1.JPG">
+<img width="380px" src="ejemplos/fondoIndex/etiquetas_basicas/img1.JPG">
 
 
 
