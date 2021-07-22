@@ -14,8 +14,10 @@ Docente: Josué Fuentes
 
 <ul>
   <li><a href="index.html">Homepage</a></li>
-  <li><a   class="botones_menu" href="glosario.html">Glosario</a></li>
-  <li></li>
+  <li><a   class="botones_menu" href="glosario.html">Glosario</a>
+  <li><a href="#estructura_basica">Estructura Básica</a></li>
+  </li>
+  
 
 </ul>
 
