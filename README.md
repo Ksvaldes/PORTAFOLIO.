@@ -14,18 +14,71 @@ Docente: Josué Fuentes <br>
 # ÍNDICE
 
 <ul>
-  <li><a href="index.html">Homepage</a></li>
-  <li><a   class="botones_menu" href="glosario.html">Glosario</a>
+  <li><a href="index.html">Homepage</a>
     <ul>
-      <li>EStructura Básica</li>
-      <li>Etiquetas HTML dirigidas al texto</li>
-      <li>Etiquetas HTML dirigidas a objetos</li>
-      <li>Propiedades css dirigidas a texto</li>
-      <li>Propiedades dirigidas a objetos</li>
+      <li>Banner
+        <ul>
+          <li>Boton inicio</li>
+          <li>Boton glosario</li>
+          <li>Frase Motivadora</li>
+          <li>Boton para ir a mi perfil</li>
+          <li>Boton para ir a mi readme de github</li>
+        </ul>
+      </li>    
+    </ul>
+  
+  </li>
+  <li><a href="glosario.html">Glosario</a>
+    <ul>
+      <li>Contenido
+        <ul><li>Menu para rápido acceso a información
+      <ul>
+        <li>EStructura Básica
+          <ul>
+            <li>Definición</li>
+            <li>Propiedades útiles para la etiqueta</li>
+            <li>Ejemplos</li>
+          </ul>
+        </li>
+      <li>Etiquetas HTML dirigidas al texto
+          <ul>
+            <li>Definición</li>
+            <li>Propiedades útiles para la etiqueta</li>
+            <li>Ejemplos</li>
+          </ul>
+        </li>
+      <li>Etiquetas HTML dirigidas a objetos
+          <ul>
+            <li>Definición</li>
+            <li>Propiedades útiles para la etiqueta</li>
+            <li>Ejemplos</li>
+          </ul>
+        </li>
+      <li>Propiedades css dirigidas a texto
+          <ul>
+            <li>Definición</li>
+            <li>Propiedades útiles para la etiqueta</li>
+            <li>Ejemplos</li>
+          </ul>
+        </li>
+      <li>Propiedades dirigidas a objetos
+          <ul>
+            <li>Definición</li>
+            <li>Propiedades útiles para la etiqueta</li>
+            <li>Ejemplos</li>
+          </ul>
+        </li>
+      </ul>
+     </li>
+          <li>Footer
+            <ul>
+              <li>Mi nombre completo y grado</li>
+            </ul>
+          </li>
+    </ul>
+      </li>
     </ul>
   </li>
-  
-
 </ul>
 
 # OBJETIVOS
