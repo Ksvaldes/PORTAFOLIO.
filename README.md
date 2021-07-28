@@ -2,7 +2,7 @@
 
 # PORTAFOLIO III PERIODO 2021
 
-<img width="100%" src="https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png">
+<img width="100%" src="https://www.totalcareersolutions.com/wp-content/uploads/2021/04/Junior-Web-Developer-pic--1050x525.jpg">
 
 # INFORMACIÓN PERSONAL
 Colegio Santa Catalina Laboure <br>
