@@ -2,7 +2,7 @@
 
 # PORTAFOLIO III PERIODO 2021
 
-<img width="280px" src="ejemplos/fondoIndex/etiquetas_basicas/22 .gif">
+<img width="100%" src="https://acumbamail.com/blog/wp-content/uploads/2014/10/maquetacion-email-html.png">
 
 # INFORMACIÓN PERSONAL
 Colegio Santa Catalina Laboure <br>
