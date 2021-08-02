@@ -101,13 +101,10 @@ https://ksvaldes.github.io/PORTAFOLIO./
 
 # OBJETIVOS FUTUROS
 
-<ul style="list-style-image:url(corazon.png);">
-  <li> Primer elemento</li>
-  <li> Segundo elemento</li>
-  <li> Tercer elemento</li>
-  <li> Cuarto elemento</li>
-  <li> Quinto elemento</li>
-  <li> Sexto elemento</li>
+<ul>
+  <li>Quiero poder seguir programando y poder crear muchas cosas agradables para el público.</li>
+  <li>Quiero aprender más sobre la programación y poner todos mis conocimientos en práctica.</li>
+  <li>Quiero poder ayudar a las demás personas con la ayuda de la programación.</li>
 </ul>
 
 
