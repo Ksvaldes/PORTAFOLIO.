@@ -89,7 +89,7 @@ Docente: Josué Fuentes <br>
   <li>Hacer mi página web atractiva y llamativa para los demás usuarios.</li>
 </ol>
 
-<img width="200px" src="ejemplos/fondoIndex/etiquetas_basicas/responsive.gif">
+<img width="20%" src="ejemplos/fondoIndex/etiquetas_basicas/responsive.gif">
 
 # DOCUMENTACIÓN
 
