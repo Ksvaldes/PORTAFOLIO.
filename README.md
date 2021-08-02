@@ -99,5 +99,15 @@ https://ksvaldes.github.io/PORTAFOLIO./
 
 <img width="380px" src="ejemplos/fondoIndex/etiquetas_basicas/img1.JPG">
 
+# OBJETIVOS FUTUROS
+
+<ul style="list-style-image:url(corazon.png);">
+  <li> Primer elemento</li>
+  <li> Segundo elemento</li>
+  <li> Tercer elemento</li>
+  <li> Cuarto elemento</li>
+  <li> Quinto elemento</li>
+  <li> Sexto elemento</li>
+</ul>
 
 
